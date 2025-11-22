@@ -1,0 +1,17 @@
+C:\AI_Projects\
+├── create_comfyui_env.bat          # Installation wizard
+├── comfyui_launcher.bat            # Master launcher with menu
+├── start_comfyui_main.bat          # Direct main launcher
+├── start_comfyui_experimental.bat  # Direct experimental launcher  
+├── start_comfyui_training.bat      # Direct training launcher
+├── update_comfyui_installations.bat # Batch updater
+├── verify_installations.bat        # Health checker
+├── comfyui_main\                   # Main installation
+│   ├── venv\
+│   └── ComfyUI\
+├── comfyui_experimental\           # Experimental installation
+│   ├── venv\
+│   └── ComfyUI\
+└── comfyui_training\               # Training installation
+    ├── venv\
+    └── ComfyUI\
